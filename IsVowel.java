@@ -1,6 +1,6 @@
 public class IsVowel {
     public static void main(String[] args) {
-      char c = 'C';
+      char c = 'a';
   
       switch(c) {
         case 'a':
